@@ -1,0 +1,33 @@
+{
+  "identifier" : "CC868773",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "072C4A7D",
+      "localizations" : [
+        {
+          "description" : "Get 5 decisions to use anytime",
+          "displayName" : "5 Decisions",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "decisions_yt_5",
+      "referenceName" : "Decisions 5",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
